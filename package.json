@@ -1,0 +1,9 @@
+{
+  "name": "yarn-modules-folder-issue-repro",
+  "version": "1.0.0",
+  "description": "Reproduction of an issue in yarn's --modules-folder",
+  "main": "index.js",
+  "repository": "git@github.com:ryanwilsonperkin/yarn-modules-folder-issue-repro.git",
+  "author": "Ryan Wilson-Perkin <ryanwilsonperkin@gmail.com>",
+  "license": "MIT"
+}
