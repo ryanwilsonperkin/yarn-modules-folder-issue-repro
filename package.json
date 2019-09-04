@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:ryanwilsonperkin/yarn-modules-folder-issue-repro.git",
   "author": "Ryan Wilson-Perkin <ryanwilsonperkin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7",
+    "@babel/core": "^7"
+  }
 }
